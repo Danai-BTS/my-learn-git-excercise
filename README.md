@@ -1,12 +1,8 @@
+# My Website 
 
-# My Website
-# Danais
-**คำเตือน** ห้ามเอาไปขึ้น
-*** เอียง ***
+สวัสดีครับ ผมชื่อพล นักพัฒนาเว็บไซต์ และออกแบบเว็บไซต์ สนใจติดต่อได้ที่ [เว็บไซต์](https://www.nextflow.in.th)
+
 ## ช่องทางติดต่อ
-### ช่องทางติดต่อ
-#### ช่องทางติดต่อ
-- [Facebook](https://www.youtube.com/)
-- X
-## สารบัญxxxxxxxxxxxxx
-1. [Introduction](page1.md)
+- [Youtube](https://www.youtube.com/teerasej)
+- [Facebook](https://www.facebook.com/teerasej) 
+- Email: [training@nextflow.in.th](mailto:training@nextflow.in.th)
